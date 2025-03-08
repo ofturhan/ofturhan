@@ -1,7 +1,7 @@
 Hi 👋 My name is Ömer Faruk Turhan
 ==================================
 
-Web Developer
+Software Developer
 -------------
 
 * 🌍  I'm based in Ankara
